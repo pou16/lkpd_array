@@ -36,10 +36,3 @@ console.log ("setelah hps nilai:",hapusTerakhir);
 console.log (nilaiSiswa);
 console.log (hapusTerakhir);
 console.log (nilaiSiswa);
-
-
-// 1. kita memerlukan array karena array itu memiliki penyimpaanan yg efisien, mungkin kita ingin menyimpan banyak data dengan tipe yg sma dlm stu wadah jadi array ini sgt memungkinkan. Array juga disusun scr berurutan dariindex 0, jadi mempermudah dan mempercepat proses
-// 2. dgn cara mengelompokkan data, tanpa array kta hrus membuat variabel secacra terpisah (contoh let nilai1=90 ; let nilai2=98;). Tapi jika kita menggunakan arrray bisa langsung di dalam satu variabel (contoh let nilai=[70,80,90];)
-// 3. dampaknya jumlah elemen dlm array akan bertmbh, jadi lenght dri array nya juga akan menambah, elemen baru juga bakal di tempatkan di index terakhir
-// 4. dgn cara menggunakan index dari elemen tersebut, spt metode filter,pop, push dll sesuai data
-// 5. MENGAKSES elemendi luar batasan array, lupa menambah tanda kurung
